@@ -31,7 +31,7 @@ this.point4 = p4;
 }
 // No area calculation for Quadrilateral due to its general nature
 }
-// Step 1: Define the Trapezoid class as a subclass of Quadrilateral
+
 class Trapezoid extends Quadrilateral
 {
 public Trapezoid(Point p1, Point p2, Point p3, Point p4) {
